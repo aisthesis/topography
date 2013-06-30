@@ -1,0 +1,12 @@
+topography
+=============================================
+Solution to the following problem:
+You are given a 2 dimensional array of integers
+as input. The array represents a rectangular 
+topographic map. Each entry in the array represents
+the height of the corresponding tile.
+The problem is to devise an
+algorithm to determine how much water the map
+will hold. Water will spill off from all the edges
+and, transitively, from any tile next to an
+edge that is the same height or higher.
